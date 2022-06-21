@@ -1,0 +1,4 @@
+../Core/Src/mytimerfunctions.c:9:6:TIM_Init	24	static
+../Core/Src/mytimerfunctions.c:38:6:TIM_OC_Config	56	static
+../Core/Src/mytimerfunctions.c:50:6:TIM_IC_Config	40	static
+../Core/Src/mytimerfunctions.c:62:6:TIM_StartStop_IT	24	static
